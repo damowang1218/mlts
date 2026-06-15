@@ -19,7 +19,7 @@ import com.example.mlts.BuildConfig;
  //import net.maiyun.lts.LtsLocationListener;
 
 /**
- * 迈云 LTS 定位封装，风格对齐项目内 LocationService（百度）
+ * 迈云 LTS 定位
  */
 public class LtsLocationManager {
 
